@@ -6,14 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jcfreview" />
-        <module name="Web_Test" />
-        <module name="simple" />
-        <module name="login" />
-        <module name="classicmodels" />
-        <module name="login_test" />
-        <module name="Test_Login" />
-        <module name="register" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

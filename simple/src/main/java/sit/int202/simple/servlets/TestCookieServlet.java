@@ -19,7 +19,6 @@ public class TestCookieServlet extends HttpServlet {
         Cookie ck = new Cookie("bg_cookie", bgColor);
         ck.setMaxAge(8*24*60*60);
         response.addCookie(ck);
-        request.setAttribute("bgColor", bgColor);
         request.getRequestDispatcher("/test_cookie.jsp").forward(request,response);
     }
 }

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/INT202.iml" filepath="$PROJECT_DIR$/.idea/INT202.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test_Login/Test_Login.iml" filepath="$PROJECT_DIR$/Test_Login/Test_Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/Web_Test/Web_Test.iml" filepath="$PROJECT_DIR$/Web_Test/Web_Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/classicmodels/classicmodels.iml" filepath="$PROJECT_DIR$/classicmodels/classicmodels.iml" />
